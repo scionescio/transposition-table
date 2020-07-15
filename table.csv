@@ -1,5 +1,3 @@
-fen,move
-abc,d4d3
-def,e2e3
-hhh,e2e4
-ggh,e6f3
+State,UCIMove,Depth,Score
+abc,qd2d4,3,20
+def,qd2d4,3,20
